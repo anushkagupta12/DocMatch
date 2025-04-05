@@ -1,0 +1,2 @@
+A text file is a computer file that stores data as a sequence of lines of electronic text,
+ typically without any formatting or embedded elements, making it simple to read and edit with basic text editors. 
